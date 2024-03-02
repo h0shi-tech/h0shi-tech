@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="hehe.png" alt="Название" width="100"/>
+  <img src="hehe.PNG" alt="Название" width="100"/>
 </p>
