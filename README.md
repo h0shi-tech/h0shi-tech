@@ -1,6 +1,6 @@
 
 
-| Проект | Что это | Стек |
+| Проект | Описание | Стек |
 | :--- | :--- | :--- |
 | **[vacancy-radar](https://github.com/h0shi-tech/vacancy-radar)** | Ранжирует вакансии с API hh.ru по зарплате, ключевым словам и свежести — с разбивкой оценки по компонентам | Python · stdlib · CLI |
 | **[tls-doctor](https://github.com/h0shi-tech/tls-doctor)** | Аудит TLS для CI: срок и SAN сертификата, цепочка, устаревшие протоколы, HSTS — коды возврата по severity | Python · ssl · CI |
